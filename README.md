@@ -14,5 +14,5 @@ fitted_values.RData: contains variables...
 
  To produce a plot of improvement trajectories for each class of the five-class model (as in manuscript Figure 2), use...
      
-     plotpred <- predictY(c3d3b,datnew,var.time="Session",draws = TRUE)
+     plotpred <- predictY(c5d3,datnew,var.time="Session",draws = TRUE)
      plot(plotpred,lty=1,xlab="Session",ylab="CGI",legend.loc="topleft",cex=0.75)
