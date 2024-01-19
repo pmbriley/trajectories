@@ -11,4 +11,7 @@ fitted_values.RData: contains variables...
 
     c1d3 - fitted lcmm model (one class, polynomial degree 3 i.e., cubic)
     c2d3-c8d3 fitted lcmm models (two-eight classes)
-    
+
+ To produce a plot of improvement trajectories for each class of the five-class model (as in manuscript Figure 2), use:
+     plotpred <- predictY(c3d3b,datnew,var.time="Session",draws = TRUE)
+     plot(plotpred,lty=1,xlab="Session",ylab="CGI",legend.loc="topleft",cex=0.75)
