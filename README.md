@@ -5,7 +5,7 @@ fit_trajectories_to_cgi_ratings.r: R code to fit trajectories of response to CGI
 
 fitted_values.RData: contains variables...
 
-    cgi - data frame with columns of Session (session number, 0 = pre-treatment), ID - patient   ID code, CGI - CGI value (re-coded such that 1/2 = 1, 3 = 2, 4 = 3, 5 = 4), Tx - treatment group
+    cgi - data frame with columns of Session (session number, 0 = pre-treatment), ID - patient ID code, CGI - CGI value (re-coded such that 1/2 = 1, 3 = 2, 4 = 3, 5 = 4), Tx - treatment group
 
     datnew - simple data frame with a Session term, to facilitate plotting of response trajectories; datnew <- data.frame(Session=seq(0,20,length=21))
 
