@@ -1,5 +1,5 @@
 # trajectories
-Briley et al. (under review). Trajectories of response to left dorsolateral prefrontal rTMS for treatment-resistant major depression in the BRIGhTMIND trial
+Briley et al. (under review). Trajectories of improvement with repetitive transcranial magnetic stimulation for treatment-resistant major depression in the BRIGhTMIND trial
 
 fit_trajectories_to_cgi_ratings.r: R code to fit trajectories of response to CGI (patient global impression of change) ratings across sessions of a treatment course. Requires lcmm toolbox (Proust-Lima et al. (2017, doi: 10.18637/jss.v078.i02) for latent class growth analysis
 
