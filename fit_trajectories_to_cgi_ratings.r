@@ -1,6 +1,6 @@
-# Briley et al. Trajectories of response to left dorsolateral prefrontal rTMS for treatment-resistant major depression in the BRIGhTMIND trial
+# Briley et al. Trajectories of improvement with repetitive transcranial magnetic stimulation for treatment-resistant major depression in the BRIGhTMIND trial
 #
-# Fits trajectories of response to CGI values across the twenty rTMS sessions in the BRIGhTMIND trial
+# Fits trajectories of improvement to CGI values across the twenty rTMS sessions in the BRIGhTMIND trial
 #
 # Data are in the 'cgi' data frame, which has fields: Session (session number, zero = pre-treatment), ID (participant code), CGI (CGI value), Tx (treatment group)
 # CGI values originally were: 1 = Much worse, 2 = A bit worse, 3 = Just the same, 4 = A bit better, 5 = Much better
