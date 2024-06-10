@@ -1,7 +1,7 @@
 # trajectories
 Briley et al. (2024), npj Mental Health Research, doi.org/10.1038/s44184-024-00077-8
 
-"Trajectories of improvement with repetitive transcranial magnetic stimulation for treatment-resistant major depression in the BRIGhTMIND trial"
+<b>"Trajectories of improvement with repetitive transcranial magnetic stimulation for treatment-resistant major depression in the BRIGhTMIND trial"</b>
 
 fit_trajectories_to_cgi_ratings.r: R code to fit trajectories of improvement to mPGIC (modified patient global impression of change) ratings across sessions of a treatment course. Requires lcmm toolbox (Proust-Lima et al. 2017, doi: 10.18637/jss.v078.i02) for latent class growth analysis
 
