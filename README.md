@@ -1,5 +1,5 @@
 # trajectories
-Briley et al. (2024), npj Mental Health Research, doi.org/10.1038/s44184-024-00077-8
+<b>Briley et al. (2024), npj Mental Health Research, doi.org/10.1038/s44184-024-00077-8</b>
 
 <b>"Trajectories of improvement with repetitive transcranial magnetic stimulation for treatment-resistant major depression in the BRIGhTMIND trial"</b>
 
